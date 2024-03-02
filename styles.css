@@ -14,8 +14,8 @@ body{
     border-radius: 5%;
     background: white;
     margin-top: 50%;
-    height: 55%;
-    width: 15%;
+    height: 58%;
+    width: 20%;
     
 }
 
@@ -37,10 +37,13 @@ img{
 h4{
     font-size: 20px;
     font-weight: 700;
+    margin-block-start: 5px;
+    margin-block-end: 5px;
 }
 p{
     font-size: 15px;
     padding: 5%;
+    margin: 0;
     font-weight: 400;
     color:hsl(212, 45%, 89%);
 }
